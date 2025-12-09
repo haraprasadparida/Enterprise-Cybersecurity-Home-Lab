@@ -6,7 +6,7 @@ A comprehensive repository documenting the construction and configuration of an 
 - Follows a **5‑phase procedure** to construct and harden the lab environment gradually.
 
 ## Project Phases:
-- Phase 1: Network Architecture: Implement an isolated, firewalled corporate LAN using pfSense and VMWare networking. (Phase – 1 – Which is covered in this document)
+- Phase 1: Network Architecture: Implement an isolated, firewalled corporate LAN using pfSense and VMWare networking.
 - Phase 2: Core Services: Deploy Windows Server 2022 and configure Active Directory (AD), DNS, and DHCP.
 - Phase 3: Logging Pipeline: Deploy Splunk Enterprise (SIEM), Splunk Universal Forwarders, and Sysmon to collect high-fidelity logs from all endpoints.
 - Phase 4: Defensive Development: Create and validate Splunk detection rules mapped to MITRE ATT&CK techniques.
